@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Abdilatif Mohamed</h1>
 <h3 align="center">A passionate Software Engineer and Data Scientist from Mombasa, Kenya</h3>
 
-<img align="centre" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
 - 🔭 I’m  working on **C**
 
