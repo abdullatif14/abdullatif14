@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
 
-- 🔭 I’m  working on **C**
+- 🔭 I’m  working on **C** and **Python**
 
 - 🌱 Currently learning **Software Engineering** at ALX
 
